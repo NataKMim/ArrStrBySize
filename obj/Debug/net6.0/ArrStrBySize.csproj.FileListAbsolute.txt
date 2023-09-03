@@ -1,0 +1,15 @@
+D:\GB\EndPart1\ArrStrBySize\ArrStrBySize\bin\Debug\net6.0\ArrStrBySize.exe
+D:\GB\EndPart1\ArrStrBySize\ArrStrBySize\bin\Debug\net6.0\ArrStrBySize.deps.json
+D:\GB\EndPart1\ArrStrBySize\ArrStrBySize\bin\Debug\net6.0\ArrStrBySize.runtimeconfig.json
+D:\GB\EndPart1\ArrStrBySize\ArrStrBySize\bin\Debug\net6.0\ArrStrBySize.dll
+D:\GB\EndPart1\ArrStrBySize\ArrStrBySize\bin\Debug\net6.0\ArrStrBySize.pdb
+D:\GB\EndPart1\ArrStrBySize\ArrStrBySize\obj\Debug\net6.0\ArrStrBySize.csproj.AssemblyReference.cache
+D:\GB\EndPart1\ArrStrBySize\ArrStrBySize\obj\Debug\net6.0\ArrStrBySize.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\EndPart1\ArrStrBySize\ArrStrBySize\obj\Debug\net6.0\ArrStrBySize.AssemblyInfoInputs.cache
+D:\GB\EndPart1\ArrStrBySize\ArrStrBySize\obj\Debug\net6.0\ArrStrBySize.AssemblyInfo.cs
+D:\GB\EndPart1\ArrStrBySize\ArrStrBySize\obj\Debug\net6.0\ArrStrBySize.csproj.CoreCompileInputs.cache
+D:\GB\EndPart1\ArrStrBySize\ArrStrBySize\obj\Debug\net6.0\ArrStrBySize.dll
+D:\GB\EndPart1\ArrStrBySize\ArrStrBySize\obj\Debug\net6.0\refint\ArrStrBySize.dll
+D:\GB\EndPart1\ArrStrBySize\ArrStrBySize\obj\Debug\net6.0\ArrStrBySize.pdb
+D:\GB\EndPart1\ArrStrBySize\ArrStrBySize\obj\Debug\net6.0\ArrStrBySize.genruntimeconfig.cache
+D:\GB\EndPart1\ArrStrBySize\ArrStrBySize\obj\Debug\net6.0\ref\ArrStrBySize.dll
